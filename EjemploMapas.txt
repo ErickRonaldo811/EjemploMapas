@@ -1,0 +1,23 @@
+//mapas 
+
+void main(){
+  
+  
+
+
+
+final Map<String, dynamic> auto ={
+  
+  'marca' : 'Honda',
+  'Modelo': 'Civic',
+  'Anio'  : 2018,
+  'Mejoras': ['Luces','Asientos','Motor']
+  
+  
+};
+
+print(auto['marca']);
+print(auto['Modelo']);
+print(auto['Anio']);
+print(auto['Mejoras']);
+  
